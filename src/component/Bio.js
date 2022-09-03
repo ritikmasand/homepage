@@ -7,7 +7,7 @@ const Bio = () => {
   };
   return (
     <div>
-      <img style={styling} src={dp} />
+      <img style={styling} src={dp} alt="myphoto" />
     </div>
   );
 };
